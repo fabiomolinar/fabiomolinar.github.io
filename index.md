@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: main
 ---
 
-# Fabio T. Molinar's Website
+# Website still under construction
 
 It's a little empty here as this page is still under construction. Come back later for more information.
